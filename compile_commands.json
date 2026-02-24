@@ -1,0 +1,22 @@
+[
+  {
+    "directory": "C:/ABSOLUTE/PATH/TO/YOUR/FOLDER",
+    "command": "g++ -c main.cpp",
+    "file": "main.cpp"
+  },
+  {
+    "directory": "C:/ABSOLUTE/PATH/TO/YOUR/FOLDER",
+    "command": "g++ -c Spell.cpp",
+    "file": "Spell.cpp"
+  },
+  {
+    "directory": "C:/ABSOLUTE/PATH/TO/YOUR/FOLDER",
+    "command": "g++ -c Professor.cpp",
+    "file": "Professor.cpp"
+  },
+  {
+    "directory": "C:/ABSOLUTE/PATH/TO/YOUR/FOLDER",
+    "command": "g++ -c WizardStudent.cpp",
+    "file": "WizardStudent.cpp"
+  }
+]
