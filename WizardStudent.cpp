@@ -1,5 +1,15 @@
-// This file was created by Jose Ignacio Gomez Espinola
-// on February, 2025.
+/**
+ * @file WizardStudent.cpp
+ * @author Kiril Zolotarov (kz000012@red.ujaen.es)
+ * @author Roberto Menegassi (ramf0001@red.ujaen.es)
+ * @brief Implementation of the WizardStudent class methods,
+ * handling spell learning, practice, and display of known spells.
+ * @version 0.1
+ * @date 2026-03-09
+ *
+ * @copyright Copyright (c) 2026
+ *
+ */
 
 #include "WizardStudent.h"
 #include <iostream>

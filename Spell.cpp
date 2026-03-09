@@ -1,5 +1,15 @@
-// This file was created by Jose Ignacio Gomez Espinola
-// on February, 2025.
+/**
+ * @file Spell.cpp
+ * @author Kiril Zolotarov (kz000012@red.ujaen.es)
+ * @author Roberto Menegassi (ramf0001@red.ujaen.es)
+ * @brief Implementation of the Spell class methods,
+ * including spell creation, practice, and attribute access.
+ * @version 0.1
+ * @date 2026-03-09
+ *
+ * @copyright Copyright (c) 2026
+ *
+ */
 
 #include "Spell.h"
 #include <iostream>
