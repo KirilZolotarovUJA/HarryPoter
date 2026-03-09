@@ -8,17 +8,18 @@
 #include <vector>
 #include "WizardStudent.h"
 
-class Professor {
+class Professor
+{
 private:
     std::string name;
     std::string subject;
-    std::vector<WizardStudent*> students;
+    std::vector<WizardStudent *> students;
 
 public:
     Professor(std::string n, std::string s);
     ~Professor();
-    void addStudent(WizardStudent* student);
-    void teachSpell(const Spell& spell);
+    void addStudent(WizardStudent *student);
+    void teachSpell(const Spell &spell);
     void evaluateStudents() const;
 };
 

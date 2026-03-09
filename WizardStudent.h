@@ -8,7 +8,8 @@
 #include <vector>
 #include "Spell.h"
 
-class WizardStudent {
+class WizardStudent
+{
 private:
     std::string name;
     std::string house;
@@ -18,7 +19,7 @@ private:
 public:
     WizardStudent(std::string n, std::string h, int y);
     ~WizardStudent();
-    void learnSpell(const Spell& spell);
+    void learnSpell(const Spell &spell);
     void practiceSpells();
     void showSpells() const;
     std::string getName() const;

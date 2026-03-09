@@ -6,7 +6,8 @@
 
 #include <string>
 
-class Spell {
+class Spell
+{
 private:
     std::string name;
     std::string effect;

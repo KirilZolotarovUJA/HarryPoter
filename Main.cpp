@@ -6,7 +6,8 @@
 #include "WizardStudent.h"
 #include "Professor.h"
 
-void displayMenu() {
+void displayMenu()
+{
     std::cout << "\n=== Wizarding School Menu ===\n";
     std::cout << "1. Create new student\n";
     std::cout << "2. Teach new spell\n";
@@ -15,66 +16,78 @@ void displayMenu() {
     std::cout << "Enter your choice: ";
 }
 
-int main() {
+int main()
+{
     Professor mcgonagall("McGonagall", "Transfiguration");
-    std::vector<WizardStudent*> allStudents;
-    
+    std::vector<WizardStudent *> allStudents;
+
     int choice;
     bool running = true;
-    
-    while(running) {
+
+    while (running)
+    {
         displayMenu();
         std::cin >> choice;
-        
-        switch(choice) {
-            case 1: {
-                std::string name, house;
-                std::cout << "Enter student name: ";
-                std::cin >> name;
-                std::cout << "Enter house name: ";
-                std::cin >> house;
-                
-                WizardStudent* student = new WizardStudent(name, house, 1);
-                allStudents.push_back(student);
-                mcgonagall.addStudent(student);
+
+        switch (choice)
+        {
+        case 1:
+        {
+            std::string name, house;
+            std::cout << "Enter student name: ";
+            std::cin >> name;
+            std::cout << "Enter house name: ";
+            std::cin >> house;
+
+            WizardStudent *student = new WizardStudent(name, house, 1);
+            allStudents.push_back(student);
+            mcgonagall.addStudent(student);
+            break;
+        }
+        case 2:
+        {
+            if (allStudents.empty())
+            {
+                std::cout << "No students to teach!\n";
                 break;
             }
-            case 2: {
-                if(allStudents.empty()) {
-                    std::cout << "No students to teach!\n";
-                    break;
-                }
-                
-                Spell spell("Wingardium Leviosa", "Levitation", 1);
-                mcgonagall.teachSpell(spell);
+
+            Spell spell("Wingardium Leviosa", "Levitation", 1);
+            mcgonagall.teachSpell(spell);
+            break;
+        }
+        case 3:
+        {
+            if (allStudents.empty())
+            {
+                std::cout << "No students to practice!\n";
                 break;
             }
-            case 3: {
-                if(allStudents.empty()) {
-                    std::cout << "No students to practice!\n";
-                    break;
-                }
-                
-                for(auto student : allStudents) {
-                    student->practiceSpells();
-                }
-                mcgonagall.evaluateStudents();
-                break;
+
+            for (auto student : allStudents)
+            {
+                student->practiceSpells();
             }
-            case 4: {
-                running = false;
-                break;
-            }
-            default: {
-                std::cout << "Invalid option!\n";
-            }
+            mcgonagall.evaluateStudents();
+            break;
+        }
+        case 4:
+        {
+            running = false;
+            break;
+        }
+        default:
+        {
+            std::cout << "Invalid option!\n";
+        }
         }
     }
-    
+
     // Cleanup
-    for(auto student : allStudents) {
+    for (auto student : allStudents)
+    {
         delete student;
     }
-    
+
     return 0;
 }
