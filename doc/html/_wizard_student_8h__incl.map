@@ -1,0 +1,10 @@
+<map id="WizardStudent.h" name="WizardStudent.h">
+<area shape="rect" id="Node000001" title="Defines the WizardStudent class representing a student who can learn, practice, and display magical s..." alt="" coords="5,5,124,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="46,153,99,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,34,30,65,24,84,26,104,36,123,50,141,45,142,31,126,21,105,19,84,26,63,53,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="36,79,93,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="65,29,67,64,62,63,64,34"/>
+<area shape="rect" id="Node000004" href="$_spell_8h.html" title="Defines the Spell class representing a magical spell with a name, effect, and power level." alt="" coords="118,79,179,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="79,29,125,68,120,70,78,34"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="138,104,98,144,95,140,133,106"/>
+</map>

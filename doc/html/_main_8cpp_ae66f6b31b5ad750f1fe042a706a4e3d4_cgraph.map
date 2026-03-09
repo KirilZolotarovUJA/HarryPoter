@@ -1,0 +1,15 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Entry point of the program." alt="" coords="5,80,55,106"/>
+<area shape="rect" id="Node000002" href="$class_professor.html#a1a3f2eebb740ce21e4f0d04f5a74819b" title="Adds a student to the professor&#39;s class." alt="" coords="120,5,272,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,78,71,58,101,40,118,35,114,38,104,45,74,62,49,81"/>
+<area shape="rect" id="Node000004" href="$_main_8cpp.html#a59c2926dd9b0968badf463aaf4f91422" title="Displays the main menu of the wizarding school system. It shows the available options that the user c..." alt="" coords="149,55,243,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="54,87,135,75,132,79,56,92"/>
+<area shape="rect" id="Node000005" href="$class_professor.html#a991825f128e168ef3c6d00d7dfb796ef" title="Evaluates all students by displaying the spells they know and their current power levels." alt="" coords="103,104,289,130"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="55,94,90,100,85,103,56,99"/>
+<area shape="rect" id="Node000006" href="$class_professor.html#a978f0428c4ff2ddb2a90a4580c82a542" title="Teaches a spell to all students in the class." alt="" coords="123,153,269,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="47,103,74,122,104,140,120,148,114,148,101,145,71,127,46,109"/>
+<area shape="rect" id="Node000003" href="$class_wizard_student.html#a16b2fbbbf39264ba7eb44c5eb70a7ecb" title="Returns the name of the wizard student." alt="" coords="337,5,505,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="271,16,324,17,319,19,272,21"/>
+<area shape="rect" id="Node000007" href="$class_spell.html#a61d5295f67cd2854a11189798e5164aa" title="Returns the name of the spell." alt="" coords="366,153,477,179"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="269,164,353,166,347,166,270,169"/>
+</map>

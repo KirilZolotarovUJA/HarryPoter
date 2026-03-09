@@ -1,0 +1,5 @@
+<map id="Professor::teachSpell" name="Professor::teachSpell">
+<area shape="rect" id="Node000001" title="Teaches a spell to all students in the class." alt="" coords="5,5,152,31"/>
+<area shape="rect" id="Node000002" href="$class_spell.html#a61d5295f67cd2854a11189798e5164aa" title="Returns the name of the spell." alt="" coords="200,5,311,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,16,187,18,181,18,152,21"/>
+</map>

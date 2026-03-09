@@ -1,0 +1,12 @@
+<map id="WizardStudent.h" name="WizardStudent.h">
+<area shape="rect" id="Node000001" title="Defines the WizardStudent class representing a student who can learn, practice, and display magical s..." alt="" coords="65,5,183,31"/>
+<area shape="rect" id="Node000002" href="$_main_8cpp.html" title="Main program that simulates a wizarding school system. Provides a menu to create students,..." alt="" coords="5,153,80,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,44,70,80,54,119,47,153,42,151,49,118,66,78,100,39"/>
+<area shape="rect" id="Node000003" href="$_professor_8h.html" title="Defines the Professor class responsible for managing wizard students and teaching spells in a specifi..." alt="" coords="80,79,168,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,44,126,79,121,78,122,49"/>
+<area shape="rect" id="Node000005" href="$_wizard_student_8cpp.html" title="Implementation of the WizardStudent class methods, handling spell learning, practice,..." alt="" coords="191,79,323,105"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="160,36,237,78,232,79,159,41"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="101,115,58,154,54,150,96,115"/>
+<area shape="rect" id="Node000004" href="$_professor_8cpp.html" title="Implementation of the Professor class methods, including student management, spell teaching,..." alt="" coords="104,153,205,178"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="136,116,152,153,147,152,133,121"/>
+</map>

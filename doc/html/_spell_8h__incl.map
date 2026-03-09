@@ -1,0 +1,5 @@
+<map id="Spell.h" name="Spell.h">
+<area shape="rect" id="Node000001" title="Defines the Spell class representing a magical spell with a name, effect, and power level." alt="" coords="5,5,67,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="9,79,63,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,29,39,64,33,63,34,33"/>
+</map>

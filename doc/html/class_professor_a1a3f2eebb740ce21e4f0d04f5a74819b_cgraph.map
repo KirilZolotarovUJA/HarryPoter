@@ -1,0 +1,5 @@
+<map id="Professor::addStudent" name="Professor::addStudent">
+<area shape="rect" id="Node000001" title="Adds a student to the professor&#39;s class." alt="" coords="5,5,157,31"/>
+<area shape="rect" id="Node000002" href="$class_wizard_student.html#a16b2fbbbf39264ba7eb44c5eb70a7ecb" title="Returns the name of the wizard student." alt="" coords="205,5,373,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,16,192,18,186,18,157,21"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Spell::getName" name="Spell::getName">
+<area shape="rect" id="Node000001" title="Returns the name of the spell." alt="" coords="323,31,434,56"/>
+<area shape="rect" id="Node000002" href="$class_wizard_student.html#af1198f554092c26a7bdbd4a5ed6be098" title="Allows the student to learn a new spell." alt="" coords="103,5,275,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,34,276,32,276,27,310,34"/>
+<area shape="rect" id="Node000003" href="$class_professor.html#a978f0428c4ff2ddb2a90a4580c82a542" title="Teaches a spell to all students in the class." alt="" coords="116,55,262,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="310,52,263,61,262,56,305,53"/>
+<area shape="rect" id="Node000004" href="$_main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Entry point of the program." alt="" coords="5,55,55,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="98,69,55,70,55,65,102,66"/>
+</map>

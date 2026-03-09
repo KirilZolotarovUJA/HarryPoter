@@ -1,0 +1,5 @@
+<map id="WizardStudent::learnSpell" name="WizardStudent::learnSpell">
+<area shape="rect" id="Node000001" title="Allows the student to learn a new spell." alt="" coords="5,5,178,31"/>
+<area shape="rect" id="Node000002" href="$class_spell.html#a61d5295f67cd2854a11189798e5164aa" title="Returns the name of the spell." alt="" coords="226,5,337,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,16,213,18,207,18,178,21"/>
+</map>

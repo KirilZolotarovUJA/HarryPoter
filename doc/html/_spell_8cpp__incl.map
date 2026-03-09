@@ -1,0 +1,9 @@
+<map id="Spell.cpp" name="Spell.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the Spell class methods, including spell creation, practice, and attribute access." alt="" coords="44,5,119,31"/>
+<area shape="rect" id="Node000002" href="$_spell_8h.html" title="Defines the Spell class representing a magical spell with a name, effect, and power level." alt="" coords="5,79,67,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,34,54,67,49,65,75,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="91,79,162,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="89,29,114,66,108,66,88,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="9,153,63,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="38,103,39,137,33,136,34,107"/>
+</map>

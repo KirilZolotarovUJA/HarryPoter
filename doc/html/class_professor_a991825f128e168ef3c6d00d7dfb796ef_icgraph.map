@@ -1,0 +1,5 @@
+<map id="Professor::evaluateStudents" name="Professor::evaluateStudents">
+<area shape="rect" id="Node000001" title="Evaluates all students by displaying the spells they know and their current power levels." alt="" coords="103,5,289,31"/>
+<area shape="rect" id="Node000002" href="$_main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Entry point of the program." alt="" coords="5,5,55,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,19,55,21,55,16,90,17"/>
+</map>
