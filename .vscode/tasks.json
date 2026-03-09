@@ -3,14 +3,14 @@
   "tasks": [
     {
       "type": "cppbuild",
-      "label": "Build Active File (G++)",
-      "command": "C:/mingw64/bin/g++.exe",
+      "label": "Build Project (G++)",
+      "command": "/opt/homebrew/bin/g++-15",
       "args": [
         "-fdiagnostics-color=always",
         "-g",
         "${workspaceFolder}/*.cpp",
         "-o",
-        "${workspaceFolder}/main.exe",
+        "${workspaceFolder}/Main",
         "-std=c++17",
         "-Wall",
         "-Wextra"
